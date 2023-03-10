@@ -9,6 +9,7 @@ This portfolio was built and submitted for the partial fulfilment of the require
 - A Netlify link is provided a the top of this READEME file
 - This project is deployed using :octocat: GitHub pages, click the link besides
 - Downlad the files a and open it with any text editor, vs code, atom, etc... 
+<br/><br/>
 
 ## 📝 License
 Copyright © 2023 [Haya AbuRaed](https://github.com/HayaAbuRaed).<br />
